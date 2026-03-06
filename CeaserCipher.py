@@ -53,10 +53,8 @@ def brute_force(in_f, out_f, alphabet): #BRUTE-FORCE ATTACK: TRIES THE 26 POSSIB
         print('\n', file=out_f)
     return
 
-def frequency_analysis(in_f, out_f, alphabet):
-     
-     return
 
 main()
+
 
 
